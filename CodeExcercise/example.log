@@ -1,0 +1,32 @@
+INFO http-nio-8080-exec-10 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = null |  date2 = null
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-20-06 23:59:59
+INFO http-nio-8080-exec-3 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-6 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-3 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-5 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - []
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - Start date: Mon Jun 10 00:00:01 CEST 2019 | End date: Sun Jun 30 23:59:59 CEST 2019
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - []
+INFO http-nio-8080-exec-10 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-10 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - Start date: Mon Jun 10 00:00:01 CEST 2019 | End date: Sun Jun 30 23:59:59 CEST 2019
+INFO http-nio-8080-exec-10 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - [1 | 2019-06-18 02:00:00.0 | 21:37:44 | Cologne | true, 2 | 2019-06-18 02:00:00.0 | 21:37:44 | Cologne | true, 3 | 2019-06-18 02:00:00.0 | 21:37:44 | Berlin | true, 4 | 2019-06-18 02:00:00.0 | 21:37:44 | Hamburg | true, 5 | 2019-06-18 02:00:00.0 | 21:37:44 | Munich | true, 6 | 2019-06-18 02:00:00.0 | 21:37:44 | Berlin | true, 7 | 2019-06-18 02:00:00.0 | 21:37:44 | Hamburg | true, 8 | 2019-06-18 02:00:00.0 | 21:37:44 | Munich | true]
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcecise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - Start date: Mon Jun 10 00:00:01 CEST 2019 | End date: Sun Jun 30 23:59:59 CEST 2019
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcecise.service.impl.AppointmentServiceImpl - [1 | 2019-06-18 02:00:00.0 | 21:37:44 | Cologne | true, 8 | 2019-06-18 02:00:00.0 | 21:37:44 | Munich | true, 2 | 2019-06-18 02:00:00.0 | 21:37:44 | Cologne | true, 3 | 2019-06-18 02:00:00.0 | 21:37:44 | Berlin | true, 4 | 2019-06-18 02:00:00.0 | 21:37:44 | Hamburg | true, 5 | 2019-06-18 02:00:00.0 | 21:37:44 | Munich | true, 6 | 2019-06-18 02:00:00.0 | 21:37:44 | Berlin | true, 7 | 2019-06-18 02:00:00.0 | 21:37:44 | Hamburg | true]
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcercise.controller.AppointmentRestController - Date1  = 2019-10-06 00:00:01 |  date2 = 2019-30-06 23:59:59
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcercise.service.impl.AppointmentServiceImpl - Start date: Mon Jun 10 00:00:01 CEST 2019 | End date: Sun Jun 30 23:59:59 CEST 2019
+INFO http-nio-8080-exec-1 com.nielsensport.CodeExcercise.service.impl.AppointmentServiceImpl - [1 | 2019-06-18 02:00:00.0 | 21:37:44 | Cologne | true, 8 | 2019-06-18 02:00:00.0 | 21:37:44 | Munich | true, 2 | 2019-06-18 02:00:00.0 | 21:37:44 | Cologne | true, 3 | 2019-06-18 02:00:00.0 | 21:37:44 | Berlin | true, 4 | 2019-06-18 02:00:00.0 | 21:37:44 | Hamburg | true, 5 | 2019-06-18 02:00:00.0 | 21:37:44 | Munich | true, 6 | 2019-06-18 02:00:00.0 | 21:37:44 | Berlin | true, 7 | 2019-06-18 02:00:00.0 | 21:37:44 | Hamburg | true]
+INFO http-nio-8080-exec-6 com.nielsensport.CodeExcercise.controller.AppointmentRestController - Appointment: {
+        "place": "Prishtinë",
+        "price": 444,
+        "id": 0,
+        "date": "2019-06-18",
+        "time": "21:37:44",
+        "status": true
+    }
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcercise.controller.AppointmentRestController - Appointment: 0 | Tue Jun 18 02:00:00 CEST 2019 | Thu Jan 01 22:37:00 CET 1970 | Prishtinë | true
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcercise.controller.AppointmentRestController - Appointment: 0 | Tue Jun 18 02:00:00 CEST 2019 | Thu Jan 01 22:37:00 CET 1970 | Gjilan | true
+INFO http-nio-8080-exec-2 com.nielsensport.CodeExcercise.controller.AppointmentRestController - Appointment: 0 | Tue Jun 18 02:00:00 CEST 2019 | Thu Jan 01 22:37:00 CET 1970 | Prizeren | true

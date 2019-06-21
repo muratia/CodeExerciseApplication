@@ -1,0 +1,6 @@
+com\nielsensport\CodeExcercise\controller\AppointmentRestController.class
+com\nielsensport\CodeExcercise\service\impl\AppointmentServiceImpl.class
+com\nielsensport\CodeExcercise\CodeExcerciseApplication.class
+com\nielsensport\CodeExcercise\service\AppointmentService.class
+com\nielsensport\CodeExcercise\repository\AppointmentRepository.class
+com\nielsensport\CodeExcercise\model\Appointment.class
